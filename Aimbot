@@ -23,7 +23,7 @@ end)
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 repeat wait() until game:IsLoaded()
 local Window = Fluent:CreateWindow({
-    Title = "TikTok:@boychoigame",
+    Title = "TikTok:@boychoigame1",
     SubTitle = "Săn levithan vô box",
     TabWidth = 157,
     Size = UDim2.fromOffset(450, 300),
